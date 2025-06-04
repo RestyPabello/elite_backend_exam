@@ -56,14 +56,6 @@ DB_PASSWORD=your_database_password
 php artisan migrate
 ```
 
-### 7. Seed the Database (with Factory)
-
-```bash
-php artisan db:seed --class=ItemSeeder
-```
-
-### 8. Seed the Database (with Factory)
-
 ```bash
 php artisan serve
 ```
