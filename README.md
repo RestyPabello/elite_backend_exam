@@ -67,6 +67,4 @@ php artisan serve
 ```bash
 php artisan serve --port=8001
 ```
-### Visit your app at:
-http://localhost:8000
 
