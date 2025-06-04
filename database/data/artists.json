@@ -1,0 +1,1273 @@
+[
+    { 
+        "id": 1, 
+        "name": "AB6IX", 
+        "code": "0000001",
+        "album": [
+            {
+                "name": "Complete with You: Special Album",
+                "sales": 43058,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "aespa",
+        "code": "0000002",
+        "album": [
+            {
+                "name": "Savage",
+                "sales": 19629,
+                "year": "2021-10-05"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Apink",
+        "code": "0000003",
+        "album": [
+            {
+                "name": "Horn",
+                "sales": 58641,
+                "year": "2022-02-14"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ATEEZ",
+        "code": "0000004",
+        "album": [
+            {
+                "name": "Zero: Fever Epilogue",
+                "sales": 3578,
+                "year": "2021-12-10"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "BAE173",
+        "code": "0000005",
+        "album": [
+            {
+                "name": "Intersection: Blaze",
+                "sales": 16801,
+                "year": "2022-03-30"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "BamBam",
+        "code": "0000006",
+        "album": [
+            {
+                "name": "B",
+                "sales": 87540,
+                "year": "2022-01-18"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Bang Yongguk",
+        "code": "0000007",
+        "album": [
+            {
+                "name": "2",
+                "sales": 6933,
+                "year": "2022-03-02"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Billlie",
+        "code": "0000008",
+        "album": [
+            {
+                "name": "The Collective Soul and Unconscious: Chapter One",
+                "sales": 66885,
+                "year": "2022-02-23"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Blitzers",
+        "code": "0000009",
+        "album": [
+            {
+                "name": "Bobbin",
+                "sales": 17719,
+                "year": "2022-01-03"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Bolbbalgan4",
+        "code": "0000010",
+        "album": [
+            {
+                "name": "Seoul",
+                "sales": 2596,
+                "year": "2022-04-20"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Brave Girls",
+        "code": "0000011",
+        "album": [
+            {
+                "name": "Thank You",
+                "sales": 33605,
+                "year": "2022-03-15"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "BTOB",
+        "code": "0000012",
+        "album": [
+            {
+                "name": "Be Together",
+                "sales": 121528,
+                "year": "2022-02-21"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Choi Yena",
+        "code": "0000013",
+        "album": [
+            {
+                "name": "Smiley",
+                "sales": 84346,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Cravity",
+        "code": "0000014",
+        "album": [
+            {
+                "name": "Liberty: In Our Cosmos Part.2",
+                "sales": 123922,
+                "year": "2022-03-22"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Cherry Bullet",
+        "code": "0000015",
+        "album": [
+            {
+                "name": "Cherry Wish",
+                "sales": 20250,
+                "year": "2022-03-02"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Def.",
+        "code": "0000016",
+        "album": [
+            {
+                "name": "Love",
+                "sales": 41148,
+                "year": "2022-01-26"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "DKZ",
+        "code": "0000017",
+        "album": [
+            {
+                "name": "Chase, Ep.2-Maum",
+                "sales": 118583,
+                "year": "2022-04-12"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Dreamcatcher",
+        "code": "0000018",
+        "album": [
+            {
+                "name": "Apocalypse: Save Us",
+                "sales": 94706,
+                "year": "2022-04-12"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Drippin",
+        "code": "0000019",
+        "album": [
+            {
+                "name": "Villian",
+                "sales": 37535,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "E'LAST",
+        "code": "0000020",
+        "album": [
+            {
+                "name": "Roar",
+                "sales": 48695,
+                "year": "2022-04-27"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Enhypen",
+        "code": "0000021",
+        "album": [
+            {
+                "name": "Dimension: Dilemma",
+                "sales": 27591,
+                "year": "2021-10-12"
+            },
+            {
+                "name": "Dimension: Answer",
+                "sales": 621425,
+                "year": "2022-01-10"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Epex",
+        "code": "0000022",
+        "album": [
+            {
+                "name": "Book of Anxiety Chapter1. 21st Century Boys",
+                "sales": 71584,
+                "year": "2022-04-11"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Epik High",
+        "code": "0000023",
+        "album": [
+            {
+                "name": "Epik High is Here",
+                "sales": 5382,
+                "year": "2022-02-14"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Eric Nam",
+        "code": "0000024",
+        "album": [
+            {
+                "name": "There and Back Again",
+                "sales": 2183,
+                "year": "2022-01-07"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Everglow",
+        "code": "0000025",
+        "album": [
+            {
+                "name": "Return of the Girl",
+                "sales": 2450,
+                "year": "2021-12-01"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "fromis_9",
+        "code": "0000026",
+        "album": [
+            {
+                "name": "Midnight Guest",
+                "sales": 120245,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "(G)I-dle",
+        "code": "0000027",
+        "album": [
+            {
+                "name": "I Never Die",
+                "sales": 198589,
+                "year": "2022-03-14"
+            }
+        ]
+    },
+     {
+        "id": 28,
+        "name": "Ghost9",
+        "code": "0000028",
+        "album": [
+            {
+                "name": "Arcade: V",
+                "sales": 9311,
+                "year": "2022-04-07"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Ha Sungwoon",
+        "code": "0000029",
+        "album": [
+            {
+                "name": "You",
+                "sales": 18717,
+                "year": "2022-02-09"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Highlight",
+        "code": "0000030",
+        "album": [
+            {
+                "name": "Daydream",
+                "sales": 86293,
+                "year": "2022-03-21"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "ILY:1",
+        "code": "0000031",
+        "album": [
+            {
+                "name": "Love in Bloom",
+                "sales": 3181,
+                "year": "2022-04-04"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "IVE",
+        "code": "0000032",
+        "album": [
+            {
+                "name": "Eleven",
+                "sales": 37284,
+                "year": "2021-12-01"
+            },
+            {
+                "name": "Love Dive",
+                "sales": 440067,
+                "year": "2022-04-05"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Jinjin & Rocky",
+        "code": "0000033",
+        "album": [
+            {
+                "name": "Restore",
+                "sales": 57401,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Just B",
+        "code": "0000034",
+        "album": [
+            {
+                "name": "Just Begun",
+                "sales": 51504,
+                "year": "2022-04-14"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Kai",
+        "code": "0000035",
+        "album": [
+            {
+                "name": "Peaches",
+                "sales": 5373,
+                "year": "2021-11-30"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Kang Hyewon",
+        "code": "0000036",
+        "album": [
+            {
+                "name": "Winter Special Album: W",
+                "sales": 18305,
+                "year": "2022-01-04"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Kep1er",
+        "code": "0000037",
+        "album": [
+            {
+                "name": "First Impact",
+                "sales": 271048,
+                "year": "2022-01-03"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Kihyun",
+        "code": "0000038",
+        "album": [
+            {
+                "name": "Voyager",
+                "sales": 141407,
+                "year": "2022-03-15"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Kim Jaehwan",
+        "code": "0000039",
+        "album": [
+            {
+                "name": "The Letter",
+                "sales": 9639,
+                "year": "2021-12-28"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Kim Junsu",
+        "code": "0000040",
+        "album": [
+            {
+                "name": "Dimension",
+                "sales": 55470,
+                "year": "2022-03-17"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Kim Sungkyu",
+        "code": "0000041",
+        "album": [
+            {
+                "name": "Savior",
+                "sales": 28082,
+                "year": "2022-04-22"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Kim Wooseok",
+        "code": "0000042",
+        "album": [
+            {
+                "name": "Reve: 3rd Desire",
+                "sales": 67957,
+                "year": "2022-03-07"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Kim Yohan",
+        "code": "0000043",
+        "album": [
+            {
+                "name": "Illusoin",
+                "sales": 51754,
+                "year": "2022-01-10"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Kingdom",
+        "code": "0000044",
+        "album": [
+            {
+                "name": "History of Kingdom: Pt. 4: Dann",
+                "sales": 19450,
+                "year": "2022-03-31"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Kwon Eunbi",
+        "code": "0000045",
+        "album": [
+            {
+                "name": "Color",
+                "sales": 55923,
+                "year": "2022-04-04"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Kyuhyun",
+        "code": "0000046",
+        "album": [
+            {
+                "name": "Love Story (4 Season Project ?)",
+                "sales": 37215,
+                "year": "2022-01-25"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Lee Seokhoon",
+        "code": "0000047",
+        "album": [
+            {
+                "name": "Same Spot",
+                "sales": 7673,
+                "year": "2022-03-24"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Lee Seungyoon",
+        "code": "0000048",
+        "album": [
+            {
+                "name": "Even if it becomes ruins",
+                "sales": 7640,
+                "year": "2021-11-24"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Lisa",
+        "code": "0000049",
+        "album": [
+            {
+                "name": "Lalisa",
+                "sales": 73336,
+                "year": "2021-09-10"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "LUNA",
+        "code": "0000050",
+        "album": [
+            {
+                "name": "Moonlight",
+                "sales": 3705,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Max Changmin",
+        "code": "0000051",
+        "album": [
+            {
+                "name": "Devil",
+                "sales": 21831,
+                "year": "2022-01-13"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Mirae",
+        "code": "0000052",
+        "album": [
+            {
+                "name": "Marvelous",
+                "sales": 48067,
+                "year": "2022-01-12"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Miyeon",
+        "code": "0000053",
+        "album": [
+            {
+                "name": "My",
+                "sales": 90064,
+                "year": "2022-04-27"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Monsta X",
+        "code": "0000054",
+        "album": [
+            {
+                "name": "No Limit",
+                "sales": 23015,
+                "year": "2021-11-19"
+            },
+            {
+                "name": "Shape of Love",
+                "sales": 284668,
+                "year": "2022-04-26"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Moonbin & Sanha",
+        "code": "0000055",
+        "album": [
+            {
+                "name": "Refuge",
+                "sales": 144205,
+                "year": "2022-03-15"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Moonbyul",
+        "code": "0000056",
+        "album": [
+            {
+                "name": "6equence",
+                "sales": 78120,
+                "year": "2022-01-19"
+            },
+            {
+                "name": "CITT: Cheese in the Trap",
+                "sales": 86508,
+                "year": "2022-04-28"
+            }
+        ]
+    },
+     {
+        "id": 57,
+        "name": "NCT 127",
+        "code": "0000057",
+        "album": [
+            {
+                "name": "Sticker",
+                "sales": 31194,
+                "year": "2021-09-17"
+            },
+            {
+                "name": "Favorite",
+                "sales": 30331,
+                "year": "2021-10-25"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "NCT 2021",
+        "code": "0000058",
+        "album": [
+            {
+                "name": "Universe",
+                "sales": 118633,
+                "year": "2021-12-14"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "NCT Dream",
+        "code": "0000059",
+        "album": [
+            {
+                "name": "Glitch Mode",
+                "sales": 1649993,
+                "year": "2022-03-28"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "NINE.i",
+        "code": "0000060",
+        "album": [
+            {
+                "name": "New World",
+                "sales": 3618,
+                "year": "2022-03-30"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "NMIXX",
+        "code": "0000061",
+        "album": [
+            {
+                "name": "Ad Mare",
+                "sales": 406936,
+                "year": "2022-02-22"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "NU'EST",
+        "code": "0000062",
+        "album": [
+            {
+                "name": "Need & Bubble: Nu'est the Best Album",
+                "sales": 63446,
+                "year": "2022-03-15"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Oh My Girl",
+        "code": "0000063",
+        "album": [
+            {
+                "name": "Real Love",
+                "sales": 66912,
+                "year": "2022-03-28"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Omega X",
+        "code": "0000064",
+        "album": [
+            {
+                "name": "Love Me Like",
+                "sales": 86941,
+                "year": "2022-01-05"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Onew",
+        "code": "0000065",
+        "album": [
+            {
+                "name": "Dice",
+                "sales": 119006,
+                "year": "2022-04-11"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "ONEWE",
+        "code": "0000066",
+        "album": [
+            {
+                "name": "Planet Nine: Voyager",
+                "sales": 18075,
+                "year": "2022-01-04"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "ONF",
+        "code": "0000067",
+        "album": [
+            {
+                "name": "Goosebumps",
+                "sales": 4396,
+                "year": "2021-12-03"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "OnlyOneOf",
+        "code": "0000068",
+        "album": [
+            {
+                "name": "Instint, Pt.2",
+                "sales": 49362,
+                "year": "2022-01-14"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "P1Harmony",
+        "code": "0000069",
+        "album": [
+            {
+                "name": "Disharmony: Find Out",
+                "sales": 91969,
+                "year": "2022-01-03"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Pentagon",
+        "code": "0000070",
+        "album": [
+            {
+                "name": "In:Vite U",
+                "sales": 90114,
+                "year": "2022-01-24"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Purple Kiss",
+        "code": "0000071",
+        "album": [
+            {
+                "name": "Memem",
+                "sales": 32266,
+                "year": "2022-03-29"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Ravi",
+        "code": "0000072",
+        "album": [
+            {
+                "name": "Love & Fight",
+                "sales": 10359,
+                "year": "2022-02-08"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Red Velvet",
+        "code": "0000073",
+        "album": [
+            {
+                "name": "The Reve Festival 2022: Feel My Rhythm",
+                "sales": 560838,
+                "year": "2022-03-21"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Rocket Punch",
+        "code": "0000074",
+        "album": [
+            {
+                "name": "Yellow Punch",
+                "sales": 20055,
+                "year": "2022-02-28"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Seventeen",
+        "code": "0000075",
+        "album": [
+            {
+                "name": "Attacca",
+                "sales": 30049,
+                "year": "2021-10-22"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Solar",
+        "code": "0000076",
+        "album": [
+            {
+                "name": "Face",
+                "sales": 43599,
+                "year": "2022-03-16"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "SMTOWN",
+        "code": "0000077",
+        "album": [
+            {
+                "name": "2021 Winter SMTOWN: SMCU Express",
+                "sales": 353826,
+                "year": "2022-03-31"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Suho",
+        "code": "0000078",
+        "album": [
+            {
+                "name": "Gray Suit",
+                "sales": 186465,
+                "year": "2022-04-04"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "StayC",
+        "code": "0000079",
+        "album": [
+            {
+                "name": "Young-Luv.com",
+                "sales": 182131,
+                "year": "2022-02-21"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Stray Kids",
+        "code": "0000080",
+        "album": [
+            {
+                "name": "Christmas EveL",
+                "sales": 14418,
+                "year": "2021-11-29"
+            },
+            {
+                "name": "Oddinary",
+                "sales": 1000088,
+                "year": "2022-03-18"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Super Junior",
+        "code": "0000081",
+        "album": [
+            {
+                "name": "The Road: Winter for Spring",
+                "sales": 142663,
+                "year": "2022-02-28"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Super Junior - D&E",
+        "code": "0000082",
+        "album": [
+            {
+                "name": "Countdown Zero (Epilogue)",
+                "sales": 8458,
+                "year": "2021-12-09"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Taeyeon",
+        "code": "0000083",
+        "album": [
+            {
+                "name": "INVU",
+                "sales": 179611,
+                "year": "2022-02-14"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Tempest",
+        "code": "0000084",
+        "album": [
+            {
+                "name": "It's Me, It's We",
+                "sales": 82307,
+                "year": "2022-03-02"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Tan",
+        "code": "0000085",
+        "album": [
+            {
+                "name": "Limited Edition '1TAN'",
+                "sales": 8870,
+                "year": "2022-03-10"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "The Boyz",
+        "code": "0000086",
+        "album": [
+            {
+                "name": "Maverick",
+                "sales": 5566,
+                "year": "2021-11-01"
+            },
+            {
+                "name": "Webtoon Level Up Alone (OST)",
+                "sales": 10573,
+                "year": "2022-03-18"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Treasure",
+        "code": "0000087",
+        "album": [
+            {
+                "name": "The Second Step: Chapter One",
+                "sales": 668539,
+                "year": "2022-02-15"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Trendz",
+        "code": "0000088",
+        "album": [
+            {
+                "name": "Blue Set Chapter 1. Tracks",
+                "sales": 6170,
+                "year": "2022-01-05"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Twice",
+        "code": "0000089",
+        "album": [
+            {
+                "name": "Formula of Love: OT=<3",
+                "sales": 8293,
+                "year": "2021-12-17"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "UP10TION",
+        "code": "0000090",
+        "album": [
+            {
+                "name": "Novella",
+                "sales": 31415,
+                "year": "2022-01-03"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Verivery",
+        "code": "0000091",
+        "album": [
+            {
+                "name": "Serioues O-Round 3: Whole",
+                "sales": 97187,
+                "year": "2022-04-25"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Victon",
+        "code": "0000092",
+        "album": [
+            {
+                "name": "Chronograph",
+                "sales": 60959,
+                "year": "2022-01-18"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Viviz",
+        "code": "0000093",
+        "album": [
+            {
+                "name": "Beam of Prism",
+                "sales": 43638,
+                "year": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Weeekly",
+        "code": "0000094",
+        "album": [
+            {
+                "name": "Play Game: Awake",
+                "sales": 81537,
+                "year": "2022-03-07"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "WEi",
+        "code": "0000095",
+        "album": [
+            {
+                "name": "Love Pt. 1: First Love",
+                "sales": 119853,
+                "year": "2022-03-16"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Wheein",
+        "code": "0000096",
+        "album": [
+            {
+                "name": "Whee",
+                "sales": 69470,
+                "year": "2022-01-17"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Wonho",
+        "code": "0000097",
+        "album": [
+            {
+                "name": "Obsession",
+                "sales": 56627,
+                "year": "2022-02-16"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Wonpil",
+        "code": "0000098",
+        "album": [
+            {
+                "name": "Pilmography",
+                "sales": 33668,
+                "year": "2022-02-10"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "WJSN Chocome",
+        "code": "0000099",
+        "album": [
+            {
+                "name": "Super Yuppers!",
+                "sales": 15135,
+                "year": "2022-01-05"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Younha",
+        "code": "0000100",
+        "album": [
+            {
+                "name": "End Theory Final Ed.",
+                "sales": 7001,
+                "year": "2022-03-30"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Yoon Jisung",
+        "code": "0000101",
+        "album": [
+            {
+                "name": "Miro",
+                "sales": 6595,
+                "year": "2022-04-27"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Younite",
+        "code": "0000102",
+        "album": [
+            {
+                "name": "Youni-Birth",
+                "sales": 21927,
+                "year": "2022-04-22"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Yuju",
+        "code": "0000103",
+        "album": [
+            {
+                "name": "Rec.",
+                "sales": 22970,
+                "year": "2022-01-21"
+            }
+        ]
+    }
+]
