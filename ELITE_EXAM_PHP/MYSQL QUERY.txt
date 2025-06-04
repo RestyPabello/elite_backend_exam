@@ -1,0 +1,65 @@
+1.  Display total number of albums sold per artist
+
+SELECT 
+  artists.name, 
+  COUNT(albums.name) AS album_sold
+FROM artists
+JOIN albums ON artists.id = albums.artist_id
+GROUP BY (artists.id)
+
+2. Display combined album sales per artist
+
+SELECT
+  artists.name, 
+  SUM(albums.sales) AS album_sales
+FROM artists
+JOIN albums ON artists.id = albums.artist_id
+GROUP BY (artists.id)
+
+3. Display the top 1 artist who sold most combined album sales
+
+SELECT 
+ artists.name, 
+ SUM(albums.sales) AS most_combined_sales
+FROM artists
+JOIN albums ON artists.id = albums.artist_id
+GROUP BY (artists.id)
+ORDER BY most_combined_sales DESC
+LIMIT 1
+
+4. Display the top 10 albums per year based on their number of sales
+
+SELECT
+  YEAR(album_year) AS album_year,
+  artist_name,
+  album_name,
+  album_sales
+FROM (
+    SELECT
+    albums.year AS album_year,
+    artists.name AS artist_name,
+    albums.name AS album_name,
+    albums.sales AS album_sales,
+    ROW_NUMBER() OVER (
+        PARTITION BY YEAR(albums.year)
+         ORDER BY albums.sales DESC
+    ) AS rank
+    FROM albums 
+    JOIN artists ON albums.artist_id = artists.id
+) ranked
+WHERE rank <= 10
+ORDER BY album_year, rank;
+
+5. Display list of albums based on the searched artist
+
+SELECT 
+  albums.name AS album_name, 
+  albums.year AS year, 
+  albums.sales AS album_sales
+FROM albums
+JOIN artists on albums.artist_id = artists.id
+WHERE artists.name LIKE '%AB6IX%'
+
+
+
+
