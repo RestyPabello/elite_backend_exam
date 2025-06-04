@@ -56,6 +56,8 @@ DB_PASSWORD=your_database_password
 php artisan migrate
 ```
 
+### 7. Start the local development server:
+
 ```bash
 php artisan serve
 ```
