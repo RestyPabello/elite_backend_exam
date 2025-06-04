@@ -1,8 +1,3 @@
-
-## CRUD API with Laravel 12
-
-A simple CRUD (Create, Read, Update, Delete) API built with Laravel 12. This API handles a `Post` resource with basic operations.
-
 ## Dependencies
 
 - **Composer**: Latest stable version (2.x)
