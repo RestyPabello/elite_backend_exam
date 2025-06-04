@@ -61,6 +61,12 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+
+### 8. Start the OAuth Passport Server:
+
+```bash
+php artisan serve --port=8001
+```
 ### Visit your app at:
 http://localhost:8000
 

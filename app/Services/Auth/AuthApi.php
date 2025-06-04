@@ -42,7 +42,7 @@ class AuthApi
             throw new Exception('Invalid username or password.');
         }
         
-        $response = Http::asForm()->post(config('app.url') . '/oauth/token', [
+        $response = Http::asForm()->post(config('app.passport_url') . '/oauth/token', [
             'grant_type'    => 'password',
             'client_id'     => config('passport.password_client_id'),
             'client_secret' => config('passport.password_client_secret'),
