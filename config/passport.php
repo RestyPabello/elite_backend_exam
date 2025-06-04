@@ -25,9 +25,10 @@ return [
     | can be set via environment variables when that is more convenient.
     |
     */
+    'password_client_id'     => env('PASSWORD_CLIENT_ID'),
+    'password_client_secret' => env('PASSWORD_CLIENT_SECRET'),
 
     'private_key' => env('PASSPORT_PRIVATE_KEY'),
-
     'public_key' => env('PASSPORT_PUBLIC_KEY'),
 
     /*
